@@ -31,7 +31,7 @@ public class Basics {
      *
      *    (Relevant reading: 1.1.2. Defining methods)
      */
-    public static void main(final String[] args) {
+    public static void main(String[] args) {
         /* 3. In Python, we could print out code using the print() function.
          *    In Java, we do the same thing by using System.out.println();
          *    In the line below, we print the result of 7 + 5
